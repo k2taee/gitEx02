@@ -25,5 +25,9 @@ gitEx02 에서 두번째 수정입니다.
 
 gitEx01 에서 세번째 수정입니다.
 
+<<<<<<< HEAD
 
-gitEx02 에서 수정한 것입니다.
+gitEx01 에서 수정한 것입니다.
+=======
+gitEx01 에서 수정한 것입니다.
+>>>>>>> fbf177cab4fefe26ba484f85ecbfcdec6453db7b
